@@ -5,12 +5,19 @@ A browser bookmarklet that automatically detects and skips sponsored segments in
 Features
 
 🎯 Automatic sponsor segment detection using local LLM
+
 ⏭️ Optional automatic ad skipping
+
 📊 Visual progress bar markers showing ad locations
+
 🎨 Interactive UI for managing detected segments
+
 🎯 Confidence indicators for detected segments
+
 📝 Detailed reasoning for each detected segment
+
 ⚡ Real-time transcript analysis
+
 🔧 Configurable detection parameters
 
 **Prerequisites**
